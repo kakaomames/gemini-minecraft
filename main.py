@@ -4,7 +4,7 @@ import subprocess
 from aiohttp import web
 
 # 12/26 最終機動設定
-jar_file = "1.21.2.jar"
+jar_file = "1.21.11.jar"
 print(f"jar_file:{jar_file}")
 
 # Renderから指定されたポートを取得
